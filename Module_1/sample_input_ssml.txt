@@ -1,0 +1,8 @@
+<speak>
+Amazon Polly is a cloud service that converts text into lifelike speech. <break time="2s"/> 
+It is developed using advanced <sub alias="natural language processing"> NLP </sub> techniques.
+<amazon:domain name="news">
+You can use  to develop applications that increase engagement and accessibility.
+Amazon Polly supports multiple languages and includes a variety of lifelike voices.
+</amazon:domain>
+</speak>
