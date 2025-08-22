@@ -1,0 +1,4 @@
+Amazon Polly is a cloud service based on the neural TTS technology.
+In addition to the console, it can be accessed through AWS CLI.
+Generated speech from Amazon Polly can be used in mobile apps, games, 
+eLearning platforms, and the rapidly growing segment of IoT.
