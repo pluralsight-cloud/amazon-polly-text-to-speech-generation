@@ -1,4 +1,5 @@
-{"time":0,"type":"sentence","start":0,"end":72,"value":"Amazon Polly is a cloud service that converts text into lifelike speech."}
+{"time":0,"type":"sentence","start":0,"end":72,
+	"value":"Amazon Polly is a cloud service that converts text into lifelike speech."}
 {"time":200,"type":"word","start":0,"end":6,"value":"Amazon"}
 {"time":625,"type":"word","start":7,"end":12,"value":"Polly"}
 {"time":1062,"type":"word","start":13,"end":15,"value":"is"}
@@ -11,7 +12,8 @@
 {"time":3062,"type":"word","start":51,"end":55,"value":"into"}
 {"time":3312,"type":"word","start":56,"end":64,"value":"lifelike"}
 {"time":3825,"type":"word","start":65,"end":71,"value":"speech"}
-{"time":4755,"type":"sentence","start":74,"end":166,"value":"You can use Amazon Polly to develop applications that increase engagement and accessibility."}
+{"time":4755,"type":"sentence","start":74,"end":166,
+	"value":"You can use Amazon Polly to develop applications that increase engagement and accessibility."}
 {"time":4942,"type":"word","start":74,"end":77,"value":"You"}
 {"time":5055,"type":"word","start":78,"end":81,"value":"can"}
 {"time":5255,"type":"word","start":82,"end":85,"value":"use"}
